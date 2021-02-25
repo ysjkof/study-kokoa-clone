@@ -1,3 +1,4 @@
 # Study Kokoa Clone 2021
 
-HTML & CSS ars so much fun!
+## history
+20210225 이틀째. 기본 수업 끝나고 클론 코딩 실습 시작. 재미있다. 간단한 거 같지만 시간이 많이 걸린다.

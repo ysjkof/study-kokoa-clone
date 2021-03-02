@@ -155,7 +155,3 @@
 .reply__column button i {
   opacity: 1;
 }
-
-.reply .reply__column:first-child {
-  opacity: 0;
-}
